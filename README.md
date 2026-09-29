@@ -1,30 +1,10 @@
 # DocumentacioPI
-# Primer Nivell
 
-## Segon Nivell
+PROYECTO LASERUS
 
-### Tercer Nivell Configuració
+El proyecto laserus es un programa que te ayudara con las tareas mas aburridas cuando viene a creacion de documento, que significa esto? Basicamente si tienes una structura general de como quieres que sea el documento y las imagenes, puedes iniciar este programa dicir que estilo de documento quires y te lo crea.
 
-- tipos de format
- -**Negreta**
- -*Cursiva*
- -~~Tachado~~
-- tipos de letra
-- Arial
-- Comic 
-Configuració
-
-1. Apartat 1
-2. Apartat 2
-
-
-Per veura la configuracio de la adaptador de xarxa utilizem `ip addr`
-
-Configuracio del la xarxa netplan: 
-```
-BLABLABLABLALB
-BLUBUBUBBU
-```
-[Enllaç a la documentacio](./DOCUMENTACIO)
-[Enllaç a la instalacion](./INSTALACIO)
-![i hate it here clark](../imagen%20python/i%20hate%20it%20here%20clark.png)
+- Facilitar la instalacion del programa
+- Facilitar la creacion de documentos
+- Facilitar la modificaion de documentos
+  
