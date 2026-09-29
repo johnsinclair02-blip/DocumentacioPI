@@ -9,7 +9,7 @@ El proyecto laserus es un programa que te ayudara con las tareas mas aburridas c
 - Facilitar la modificaion de documentos
   
 - comando bash echo -n
-  [Imagen de un laser, es el logo de la app](./laser.jpeg)
+![Imagen de un laser, es el logo de la app](./laser.jpeg)
 - [Link obligatiorio](./Instalacion)
 - [0] Editacion de imagenes
 - [0] Poder utilizar fuentes
