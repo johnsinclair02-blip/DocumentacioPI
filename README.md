@@ -11,3 +11,10 @@ El proyecto laserus es un programa que te ayudara con las tareas mas aburridas c
 - comando bash echo -n
 
 - [Link obligatiorio](./Instalacion)
+- [0] Editacion de imagenes
+- [0] Poder utilizar fuentes
+- [x] Poder poner videos
+- [x] Poder poner audios
+
+
+ *lluissfm@*
