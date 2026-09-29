@@ -8,3 +8,6 @@ El proyecto laserus es un programa que te ayudara con las tareas mas aburridas c
 - Facilitar la creacion de documentos
 - Facilitar la modificaion de documentos
   
+- comando bash echo -n
+
+- [Link obligatiorio](./Instalacion)
